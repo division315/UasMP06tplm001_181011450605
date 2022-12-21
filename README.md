@@ -1,5 +1,7 @@
 # TUGAS UAS MOBILE PROGRAMMING
 
-Nama : Samuel Karmadi
-NIM  : 181011450605
+
+Nama  : Samuel Karmadi
+
+NIM   : 181011450605
 
